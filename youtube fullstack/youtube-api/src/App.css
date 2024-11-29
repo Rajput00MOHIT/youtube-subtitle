@@ -1,0 +1,27 @@
+.stepper-container {
+    max-width: 400px;
+    margin: auto;
+  }
+  .step-item {
+    width: 40px;
+    height: 40px;
+    font-size: 1rem;
+    color: #ffffff;
+  }
+
+
+  .step-content {
+    min-height: 100px;
+  }
+
+
+  input[type="radio"]:checked {
+    accent-color: rgb(1, 173, 1);
+}
+input[type="radio"]:hover {
+    accent-color:  rgb(1, 173, 1);
+}
+.radio {
+width: 30px;
+height: 30px;
+} 

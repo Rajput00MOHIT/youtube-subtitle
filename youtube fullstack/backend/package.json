@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/translate": "^8.5.0",
+    "axios": "^1.7.8",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "fast-xml-parser": "^4.5.0",
+    "he": "^1.2.0",
+    "lodash": "^4.17.21",
+    "striptags": "^3.2.0"
+  }
+}
